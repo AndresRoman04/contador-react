@@ -1,0 +1,26 @@
+{
+  "name": "Contador App de Andres",
+  "short_name": "Counter",
+  "description": "El contador app hecha con react aumenta y disminuye un contador",
+  "background_color": "#333333",
+  "theme_color": "#333333",
+  "start_url": "./",
+  "scope": "./",
+  "lang": "es-MX",
+  "display": "fullscrean",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "assets/manifest-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "assets/manifest-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
